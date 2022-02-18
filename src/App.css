@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+/* Clases */
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.boton{
+  display: 	flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Etiquetas */
+img{
+  height: 180px;
+  width: 200px;
+}
+
